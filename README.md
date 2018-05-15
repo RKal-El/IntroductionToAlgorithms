@@ -1,5 +1,5 @@
 # Introduction to Algorithms
-Can't find implementations of algorithms and data structures teached in popular book Introduction to Algorithms.
+Can't find implementations of algorithms and data structures teached in popular book Introduction to Algorithms, you came at right place.
 (https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
 Algorithms and data structures are implemented in python trough the open-source web application jupyter notebook.
