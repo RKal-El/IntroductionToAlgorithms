@@ -16,7 +16,7 @@ Firstly we are going to  install python:
 3) Click on it and wait until is downloaded
 4) Double click on downloaded file
 5) Select customize installation
-6) Check options: Documentation, pip, tcl/tk and IDLE, Python test suite, py launcher, if you want for all users, click next
+6) Check options: Documentation, pip, tcl/tk and IDLE, Python test suite, py launcher, if you want for all users, click Next
 7) Check options:  Associate files with Python, Create shortcuts for installed applications, Add Python to environment variables
 8) If you are satisfied with location of installation click Install
 
@@ -28,7 +28,7 @@ python -m pip install jupyter
 
 That's it!
 
-To run jupyter notebook open open cmd/shell and type:
+To run jupyter notebook open cmd/shell and type:
 ```
 jupyter notebook
 ```
